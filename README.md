@@ -1,16 +1,47 @@
-## Hi there 👋
+# Lippershey
 
-<!--
-**lippershey-co/lippershey-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open-source AI tools for pharma and biotech.
 
-Here are some ideas to get you started:
+We build intelligence dashboards, AI agents, and data tools 
+for drug development teams — free, open-source, and built 
+for the teams that the big platforms price out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Portfolio
+
+| Project | What it does |
+|---|---|
+| [Oncovia](https://github.com/lippershey-co/oncovia) | Global oncology pipeline intelligence map |
+| [Moleculear](https://github.com/lippershey-co/moleculear) | Oncology trial failure classification · MDIP™ |
+| [LIFELINE-Onco](https://github.com/lippershey-co/lifeline-onco) | Drug delivery simulation through tumor vasculature |
+| [Standard Agentics](https://github.com/lippershey-co/standard-agentics-orchestrator) | 40 open-source AI tools for drug development |
+| [Standard Dock](https://github.com/lippershey-co/standard-dock) | Enterprise data onboarding for pharma |
+| [ONCORA](https://github.com/lippershey-co/oncora) | Multi-agent AI co-pilot for oncology R&D |
+| [CANVASS](https://github.com/lippershey-co/canvass) | Oncology equity index · trial desert map |
+| [SSE](https://github.com/lippershey-co/symptom-signal-engine) | Symptom signal engine · disease detection via search behavior |
+| [OpenPharma](https://github.com/lippershey-co/openpharma) | EMA approvals and regulatory intelligence dashboard |
+| [PharmAtlas](https://github.com/lippershey-co/pharmatlas) | Global pharma financial intelligence map |
+| [NeuroPilot](https://github.com/lippershey-co/neuropilot) | CNS drug development pipeline map |
+| [TRIALMAP](https://github.com/lippershey-co/trialmap) | Trial equity visualizer · burden vs access 2000–2024 |
+| [PharmaMap Open](https://github.com/lippershey-co/pharmamap-open) | Disease · search · Rx/OTC global tracking platform |
+
+---
+
+## Philosophy
+
+The tools that power drug development decisions are gated 
+behind €20K–€100K/year enterprise contracts.
+
+Early-stage biotechs, university spinouts, and seed-funded 
+teams — the ones doing the most important work — can't 
+access them.
+
+Lippershey builds the open-source alternative.
+Free to use. MIT licensed. No vendor contracts.
+
+---
+
+## Contact
+
+hello@lippershey.co
