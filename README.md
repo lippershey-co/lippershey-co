@@ -2,7 +2,7 @@
 
 Open-source AI tools for pharma and biotech.
 
-We build intelligence dashboards, AI agents, and data tools 
+I build intelligence dashboards, AI agents, and data tools 
 for drug development teams — free, open-source, and built 
 for the teams that the big platforms price out.
 
